@@ -1,4 +1,4 @@
-const API_URL = "https://ds-backend-xxxx.onrender.com";
+const API_URL = "https://data-management-dfqt.onrender.com";
 
 // Immediately show something so we know the script ran
 window.addEventListener("DOMContentLoaded", () => {
