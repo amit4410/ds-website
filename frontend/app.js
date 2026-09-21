@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8000";
+const API_URL = "https://ds-backend-xxxx.onrender.com";
 
 // Immediately show something so we know the script ran
 window.addEventListener("DOMContentLoaded", () => {
